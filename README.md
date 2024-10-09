@@ -1,6 +1,6 @@
 # Vishal Jewellers
 
-![Vishal Jewellers Logo]([path/to/your/logo.png](https://github.com/princeveeshi/VishalJewellers/blob/main/images/logoS.png))
+![Vishal Jewellers Logo](https://github.com/princeveeshi/VishalJewellers/blob/main/images/logoS.png)
 
 ## Welcome to Vishal Jewellers by **MRD-Brains** 🎉
 Where tradition meets timeless elegance with exquisite gold, diamond, and custom-made jewelry crafted to perfection.
@@ -41,7 +41,7 @@ Welcome to Vishal Jewellers, where tradition meets timeless elegance with exquis
 
 ## Screenshots
 
-![Vishal Jewellers Portfolio]([path/to/your/screenshot.png](https://github.com/princeveeshi/VishalJewellers/blob/main/images/vishal-jewellers.jpeg))
+![Vishal Jewellers Portfolio](https://github.com/princeveeshi/VishalJewellers/blob/main/images/vishal-jewellers.jpeg)
 
 ### Copyright
 

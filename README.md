@@ -1,6 +1,8 @@
 # Vishal Jewellers
 
-<img src="https://github.com/princeveeshi/VishalJewellers/blob/main/images/logoS.png" alt="Vishal Jewellers Logo" width="150" />
+<div style="background-color: white; display: inline-block; padding: 10px;">
+    <img src="https://github.com/princeveeshi/VishalJewellers/blob/main/images/logoS.png" alt="Vishal Jewellers Logo" width="150" />
+</div>
 
 ## Welcome to Vishal Jewellers by **MRD-Brains** 🎉
 Where tradition meets timeless elegance with exquisite gold, diamond, and custom-made jewelry crafted to perfection.
